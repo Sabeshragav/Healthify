@@ -1,6 +1,6 @@
-# Swasthya-Sampark Backend
+# Healthify Backend
 
-This is the backend server for the Swasthya-Sampark healthcare application.
+This is the backend server for the Healthify healthcare application.
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ This is the backend server for the Swasthya-Sampark healthcare application.
 Create a `.env` file in this directory with the following configuration:
 
 ```env
-# Environment Configuration for Swasthya-Sampark Backend
+# Environment Configuration for Healthify Backend
 
 # Application Environment
 NODE_ENV=development
